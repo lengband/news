@@ -12,6 +12,10 @@
 					}
 				}
 			}
+		},
+		{
+			"path": "pages/ucenter/ucenter",
+			"style": {}
 		}
 	],
 	"globalStyle": {
